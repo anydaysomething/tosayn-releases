@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.1.710</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-0.1.710.zip" length="47457540" type="application/octet-stream" sparkle:edSignature="X9aLSO4rsPZO+Zm7i05w/fxjYjzqeWS7OGv/h1hfqcMpBGAsTg7ojNt+XPO/wue/UIYlMg91z4o9JQyFOSDACw=="/>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-0.1.710.zip" length="47852187" type="application/octet-stream" sparkle:edSignature="QgeNrurQlbTUmIVANPiR6oF87WG+Va2bAhyky2lyzffIEhjkp8Vdj/0sZKXAIbVeCTou32usBFYPQmOBAT2hAA=="/>
         </item>
     </channel>
 </rss>

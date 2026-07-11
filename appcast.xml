@@ -11,8 +11,18 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-0.1.710.zip" length="47853798" type="application/octet-stream" sparkle:edSignature="D3GS3FakjyT+VBdbSEfRDr8C2A4nfucclh7bQ50CzNowlTzuWBiEorkKzB6woHkguiEeseLK6Cp1asui3XPmDw=="/>
             <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN710-49.delta" sparkle:deltaFrom="49" length="138306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d/OTSGvY9OjdzYm+9bb7CYp8MjUElLYc8wgVpiwnNlqwb/YDUIZ+C1LP6ax4szX6TBvdiGFIrnu/0WTtNA0hCw=="/>
                 <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN710-48.delta" sparkle:deltaFrom="48" length="150026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="12vlrFwN9Am8bLsDvANG+M12gSZs4t5WO9kd/shwwR1BBLZBGqjIzakx0QG0EJaUoBYDCEDHVkK9RxNzxxbaBA=="/>
             </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.260711.49</title>
+            <pubDate>Sat, 11 Jul 2026 11:50:15 +0200</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.2.260711.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-0.2.260711.49.zip" length="47864593" type="application/octet-stream" sparkle:edSignature="0f4Tzuo4sEe/eUkXxbKfnB35nlxP3cBv7o8EJIX1v13vcp6XYawInwSSztR6z4Mxu5mUXHkEJEDBlvorGZm3DQ=="/>
         </item>
         <item>
             <title>0.2.260711.48</title>

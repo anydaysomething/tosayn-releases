@@ -1,5 +1,9 @@
-<!-- last-commit-count: 49 -->
+<!-- last-commit-count: 50 -->
 # TOSAYN Changelog
+
+## 0.2.260711.50 — 2026-07-11
+
+- Fix Sparkle update detection: build number must outrank the legacy 710 placeholder
 
 ## 0.2.260711.49 — 2026-07-11
 

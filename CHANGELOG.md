@@ -3,6 +3,10 @@
 
 ## 0.2.260711.49 — 2026-07-11
 
+- (no code changes since the last release)
+
+## 0.2.260711.49 — 2026-07-11
+
 - Add What's New menu link, wire changelog auto-generation into release.sh
 - Auto-versioning: 0.2.<date>.<commit count>, computed at release time
 - Feedback email includes system + scanner diagnostics

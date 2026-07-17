@@ -10,31 +10,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.0.zip" length="48710376" type="application/octet-stream" sparkle:edSignature="+jxvjtOi+oYH9PLzcazYNtpcswEV6q79uFIf13/ffCs2H3fddkonJo+GrEVAI2550NKV9a1OSvl3c3WuOrAGAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260717.55-260717.52.delta" sparkle:deltaFrom="260717.52" length="482962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k2jwdBffrcl4Irjq18TjJE4dSR2A/+1O9i4cI6iy6IHeQoISeA5EddG4zFalqVO/YDQhtBCFeRqh/0xOuVN1BQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260717.55-260716.51.delta" sparkle:deltaFrom="260716.51" length="483694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OiAnDwXsoqV1cv7At0wan3PlqbpPEz/DXscdWp/yJuhJu8IsLiZ1jCGOORkh3Ew63jAhNvsQzx1pNXEtTPvBAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260717.55-260711.50.delta" sparkle:deltaFrom="260711.50" length="614074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V1WdTAkW64u4H3scjFNLbp1ZM45tFbZI18wY4PZ0IWxjTuEDJaYe+sCtumwZzLl+qU9NBHoHaS6porEkXFK+Bw=="/>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260717.55-710.delta" sparkle:deltaFrom="710" length="607666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h3sCcUgL5NFscyLsITjbdFVAq6hbbrKWB+fkwnuTDUlcqwhnpAag6NOa5C/iqysBvUs5lvCvu9uZDIBy+vXfAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260717.55-49.delta" sparkle:deltaFrom="49" length="613318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2gqiAtg86zpNj7XhryBt3xHbE6DYV2OpAVAiNI1tSwXKPW58qjBYOfCjIWWRQ86sXspoGK3iiDPOhw9jFOWcCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.260717.52</title>
-            <pubDate>Fri, 17 Jul 2026 17:52:56 +0200</pubDate>
-            <sparkle:version>260717.52</sparkle:version>
-            <sparkle:shortVersionString>0.2.260717.52</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-0.2.260717.52.zip" length="48518914" type="application/octet-stream" sparkle:edSignature="PTOCQjEpJfP6HC2JzyLe3rBJ1bOqYaZY8fIO30nIweRAsWRDoTFBTrOloGadUh8Bj4BBcQt0LY/+3Zkn1E3gAw=="/>
-        </item>
-        <item>
-            <title>0.2.260716.51</title>
-            <pubDate>Fri, 17 Jul 2026 16:46:28 +0200</pubDate>
-            <sparkle:version>260716.51</sparkle:version>
-            <sparkle:shortVersionString>0.2.260716.51</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-0.2.260716.51.zip" length="48518734" type="application/octet-stream" sparkle:edSignature="vkuQEFxPgNG9XSB1rU9OuNjTR+KFOCHpmgamNpg25PJ0NmgBFY1ScIcgZlceAOkvoS/C/07NUoyRFOqisZlyCQ=="/>
         </item>
     </channel>
 </rss>

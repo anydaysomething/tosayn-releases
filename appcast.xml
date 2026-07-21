@@ -4,12 +4,12 @@
         <title>TOSAYN</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 21 Jul 2026 11:40:25 +0200</pubDate>
-            <sparkle:version>260721.1</sparkle:version>
+            <pubDate>Tue, 21 Jul 2026 14:51:20 +0200</pubDate>
+            <sparkle:version>260721.2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.0.zip" length="48646794" type="application/octet-stream" sparkle:edSignature="HFmek18dPhyiTA4k4pJkXT/07CBE/IAZJmRYrOWRCS15I5Df4+e4eXYMBFnz/yoWeJXIaqkYOkB7MszIZ5QxCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.0.zip" length="48659531" type="application/octet-stream" sparkle:edSignature="7n68OqlQIFOCeHxdnyIDhK+DUe1ze7oLJeqDAc4rd0j6K1CZLqPsJzAPfjG/riqRWRr+AanSvc6Kr6wYg8OEBA=="/>
         </item>
     </channel>
 </rss>

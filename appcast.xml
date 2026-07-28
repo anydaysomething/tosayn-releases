@@ -3,6 +3,18 @@
     <channel>
         <title>TOSAYN</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Tue, 28 Jul 2026 22:47:29 +0200</pubDate>
+            <sparkle:version>260728.3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.1.zip" length="48974461" type="application/octet-stream" sparkle:edSignature="TVaq+yJqwgH+MjcehAz7sOADTS0RVPW7Nq+0EWYudYt6kMWljLLIxkeixSW0rlzZitTtvYiIviDA0yKjq+LJDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260728.3-260728.2.delta" sparkle:deltaFrom="260728.2" length="593190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZbTM/xDSxuEaZKyOSZmW+ds6ai4xppsRzgnywMhnLHArYw10YQgIXe/Tac43k6FJyz/OH8QiLt+K0ejWPGA+CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Tue, 28 Jul 2026 15:35:00 +0200</pubDate>
             <sparkle:version>260728.2</sparkle:version>

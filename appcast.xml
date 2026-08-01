@@ -4,14 +4,14 @@
         <title>TOSAYN</title>
         <item>
             <title>1.1</title>
-            <pubDate>Tue, 28 Jul 2026 22:47:29 +0200</pubDate>
-            <sparkle:version>260728.3</sparkle:version>
+            <pubDate>Sat, 01 Aug 2026 09:56:32 +0200</pubDate>
+            <sparkle:version>260731.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.1.zip" length="48974461" type="application/octet-stream" sparkle:edSignature="TVaq+yJqwgH+MjcehAz7sOADTS0RVPW7Nq+0EWYudYt6kMWljLLIxkeixSW0rlzZitTtvYiIviDA0yKjq+LJDg=="/>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.1.zip" length="48991885" type="application/octet-stream" sparkle:edSignature="TDLx9Mzy1yLuD98s3E/rhyetwQasgii/EzyF+kgL31I3vuEELYLMiD4iHZ3BOc9e+swCQ1DuCPB215tH834hBg=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260728.3-260728.2.delta" sparkle:deltaFrom="260728.2" length="593190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZbTM/xDSxuEaZKyOSZmW+ds6ai4xppsRzgnywMhnLHArYw10YQgIXe/Tac43k6FJyz/OH8QiLt+K0ejWPGA+CA=="/>
+                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN260731.1-260728.2.delta" sparkle:deltaFrom="260728.2" length="625438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ND6ubN7TAD0UksKYMW5FNVTKBbvD0FXIbFZlvWzFh0ddtwCGUQfg/5E4gIayUdjVzvYsazeGMJBsoM34nCRgBg=="/>
             </sparkle:deltas>
         </item>
         <item>

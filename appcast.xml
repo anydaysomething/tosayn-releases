@@ -3,36 +3,37 @@
     <channel>
         <title>TOSAYN</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Tue, 24 Nov 2026 14:31:15 +0100</pubDate>
+            <sparkle:version>261117.1</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.4.zip" length="49135910" type="application/octet-stream" sparkle:edSignature="CANLOcTVp4P9LYUL7ALBAr37L5XmrwZosz8Kk1NbRxj7/x/XvPtnGw81jf/stwhmpecVWBAFQQI6SUZ2NxgABw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN261117.1-261013.2.delta" sparkle:deltaFrom="261013.2" length="5987270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V0IjSSUkc6w3p784N1ifquSJkZncRikiyQgIamK8N7TTftgYpjo++7q5kEQs0BgVvSP2shYLvUSfw4laSFADCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN261117.1-260802.1.delta" sparkle:deltaFrom="260802.1" length="3555206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rtI/zgb1sfnE3cUoiKeYVF5g270WPrykmZyULQ3McnrOoVwboNdZiLodx+Bk+lMyuDETsMPqP41rO+gQD7CcBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN261117.1-260731.1.delta" sparkle:deltaFrom="260731.1" length="3594902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MHnJ7Rt5sV2zmfaR6jqGoZhKzYB4d9yiw0ZZOzJ8dNZyxcAJ9knQkyKiCiR7dvYJ5eV5cCqeDhEjeELJ61U4Dw=="/>
+                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN261117.1-260728.2.delta" sparkle:deltaFrom="260728.2" length="3719774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bN3O2pgrTkpzA5gB44t5UKDn+juf14bVN7hsbsxWVCpxK2xVH39nOX3hOYbM5Ho3624dlTaMtvf/BXhchp8kAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3</title>
-            <pubDate>Tue, 13 Oct 2026 00:57:53 +0200</pubDate>
+            <pubDate>Tue, 24 Nov 2026 14:31:14 +0100</pubDate>
             <sparkle:version>261013.2</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.3.zip" length="43246499" type="application/octet-stream" sparkle:edSignature="2yzR/DA32FxHY9fhXz0/WxebICXI7k45vwuKsdRotJfKOOIcPNBMJgUmnpcR+B/s0O23MOnd3MLf4PLz0QInCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN261013.2-260802.1.delta" sparkle:deltaFrom="260802.1" length="577162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hNBgjAu7jjzt8jIhLKG2441UkkvPsieT9z7wVR7PWZJPskpkuWltJmkjTjlKmDzezmEIsvGmQ1GZFAbaxCxICQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN261013.2-260731.1.delta" sparkle:deltaFrom="260731.1" length="586442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7tFQ4dbI3+6BbXtIwt0gwV7LTHM3O8/f2wrob/JuOqCHX37LgfEh1FzSxSP2Sz9OT2lLdaaXIuwi1gCuwTvwAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN261013.2-260728.2.delta" sparkle:deltaFrom="260728.2" length="748914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y6dh+FYw43ZCQ9Aq7mWySJgIodoMeA60viPhcsw0ya5ymHSMNHjtIm/hRIakjlYaT/Faa98wlm3ZTU43tqINAA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.3.zip" length="43246499" type="application/octet-stream"/>
         </item>
         <item>
             <title>1.2</title>
-            <pubDate>Sun, 02 Aug 2026 12:02:21 +0200</pubDate>
+            <pubDate>Tue, 24 Nov 2026 14:31:13 +0100</pubDate>
             <sparkle:version>260802.1</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.2.zip" length="49019859" type="application/octet-stream" sparkle:edSignature="GqJ3BTUIkcsoyuFyJsQOsHJKFgt4n1n3Xgo/SLYqsAm2NHh9TVR92RA/ZH+PDu9nRTvHjp2tWAgQgFmLtx3yBA=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Sat, 01 Aug 2026 09:56:32 +0200</pubDate>
-            <sparkle:version>260731.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.1.zip" length="48991885" type="application/octet-stream" sparkle:edSignature="TDLx9Mzy1yLuD98s3E/rhyetwQasgii/EzyF+kgL31I3vuEELYLMiD4iHZ3BOc9e+swCQ1DuCPB215tH834hBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/anydaysomething/tosayn-releases/main/TOSAYN-1.2.zip" length="49019859" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
